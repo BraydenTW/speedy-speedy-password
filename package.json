@@ -1,0 +1,19 @@
+{
+  "name": "speedy-speedy-password",
+  "version": "1.0.0",
+  "description": "Generate a password based off user inputs with speed ⚡",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brayden W",
+  "tags": [
+    "password",
+    "nodejs",
+    "lightweight",
+    "generator"
+  ],
+  "repository": "https://github.com/braydentw/speedy-speedy-password",
+  "license": "ISC"
+}
